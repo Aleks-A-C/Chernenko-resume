@@ -326,7 +326,7 @@ body {
   text-align: left;
   position: relative;
   box-sizing: border-box;
-  height: 85%;
+  height: 93%;
 }
 
 .project-modal-scrollable {
@@ -1086,9 +1086,10 @@ body {
   .about-img-text {
     position: absolute;
     right: 22px;
-    top: 228px;
-    font-size: 200px;
+    top: 45px;
+    font-size: 175px;
     line-height: 240px;
+    z-index: -1;
   }
 
   .about-img {
@@ -1139,7 +1140,7 @@ body {
   }
 
   .team-projects-title-bgd {
-    font-size: 200px;
+    font-size: 150px;
     line-height: 240px;
     top: 19px;
   }
@@ -1282,7 +1283,7 @@ body {
     width: 256px;
     z-index: 1;
     right: -125px;
-    bottom: 380px;
+    bottom: 410px;
   }
 
   .front-page-description {
@@ -1365,10 +1366,10 @@ body {
   }
 
   .team-projects-title-bgd {
-    font-size: 250px;
+    font-size: 200px;
     line-height: 300px;
-    top: 35px;
-    left: 274px;
+    top: 5px;
+    left: 74px;
   }
 
   .about-title {
@@ -1433,9 +1434,9 @@ body {
   }
 
   .about-img-text {
-    font-size: 250px;
+    font-size: 200px;
     line-height: 300px;
-    right: -223px;
+    right: -203px;
     top: -23px;
     z-index: 1;
   }
@@ -1545,7 +1546,7 @@ body {
   }
 
   .project-modal-container {
-    padding: 95px;
+    padding: 35px;
   }
 
   .mobile-menu-items {
