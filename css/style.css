@@ -161,6 +161,7 @@ body {
 
 .modal-mobile-menu {
   background: var(--c-light);
+  width: 100%;
 }
 
 .modal-mobile-content {
@@ -789,6 +790,14 @@ body {
 
 .input-error-border {
   border: 1px solid red;
+}
+
+.buttons {
+  display: flex;
+  flex-direction: column;
+}
+.viber {
+  margin-top: 10px;
 }
 
 /* CALCULATOR FORM SECTION */
